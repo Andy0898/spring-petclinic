@@ -1,7 +1,7 @@
 # This is a very good example of Spring technology stack
 I would like to add some features in this forked project and the code refactor will help me to learn Spring Boot more efficient. 
 
-* Add some collumns in some tables, this will help me to understand JPA & Spring Data better
+* Add some columns in some tables, this will help me to understand JPA & Spring Data better
 * Integrate MyBatis in this project 
 * Support h2 database, this will help me to understand how spring support embedded databases
 
