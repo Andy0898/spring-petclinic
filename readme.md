@@ -1,8 +1,9 @@
 # This is a very good example of Spring technology stack
 I would like to add some features in this forked project and the code refactor will help me to learn Spring Boot more efficient. 
-1. Support h2 database, this will help me to understand how spring support embedded databases
-2. Add some collumns in some tables, this will help me to understand JPA & Spring Data better
-3. Integrate MyBatis in this project 
+
+* Add some collumns in some tables, this will help me to understand JPA & Spring Data better
+* Integrate MyBatis in this project 
+* Support h2 database, this will help me to understand how spring support embedded databases
 
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
